@@ -1,0 +1,377 @@
+.group-child,
+.hero-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.hero-child {
+  width: 90rem;
+  height: 47.56rem;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.group-child {
+  border-radius: 10px;
+  background: linear-gradient(180deg, #ff946d, #ff7d68);
+  width: 10.5rem;
+  height: 3.97rem;
+}
+.discover {
+  position: absolute;
+  top: 1.28rem;
+  left: 2.92rem;
+  display: inline-block;
+  width: 4.67rem;
+  height: 1.34rem;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 24.06rem;
+  left: 0;
+  width: 10.5rem;
+  height: 3.97rem;
+  text-align: center;
+}
+.tagline {
+  position: absolute;
+  top: 0;
+  left: 3.75rem;
+  font-size: 1.13rem;
+  letter-spacing: 0.08em;
+  line-height: 0%;
+  text-transform: uppercase;
+  font-family: Tomica;
+  color: #141414;
+}
+.as-a-member {
+ 
+margin: 0;
+}
+.as-a-member1 {
+ 
+  margin: 0;
+  }
+.desc1 {
+  top: 5.38rem;
+  left: 3.75rem;
+  line-height: 1.5rem;
+  color: #5e6282;
+  display: inline-block;
+  width: 30.38rem;
+  height: 3.75rem;
+}
+.desc,
+.desc1,
+.heading {
+  position: absolute;
+}
+.heading {
+  top: 1.81rem;
+  left: 3.75rem;
+  font-size: 2.5rem;
+  line-height: 3.44rem;
+  font-family: Tomica;
+  color: #181e4b;
+}
+.desc {
+  top: 18.44rem;
+  left: 10.88rem;
+  width: 34.13rem;
+  height: 28.03rem;
+  text-align: left;
+  font-size: 0.94rem;
+  color: #fff;
+  font-family: Helvetica;
+}
+.preview-nft-card-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -0.34%;
+  right: -27.66%;
+  bottom: -47.69%;
+  left: -27.56%;
+  border-radius: 30px 0 30px 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.card-2-child {
+  margin-bottom:20%;
+  position: absolute;
+ 
+  height: 100%;
+  width: 67.6%;
+  top: -79%;
+  /* right: -50.66%; */
+  bottom: -20.69%;
+  left: -11.35%;
+  border-radius: 30px 0 30px 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+/* height: 100%;
+  width: 100%;
+  top: -0.34%;
+  right: -27.66%;
+  bottom: -47.69%;
+  left: -27.56%; */
+/* margin-right: 10rem;
+  height: 100%;
+  width: 73%;
+  right: 20%; */
+
+    border-radius: 0 0 30px 0;
+  background-color: rgba(255, 255, 255, 0.91);
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+.outlinestatusheart-icon {
+  position: absolute;
+  height: 21.16%;
+  width: 7.85%;
+  top: 12.24%;
+  right: 7.4%;
+  bottom: 66.6%;
+  left: 84.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.membership-nft-access-container {
+  position: absolute;
+width: 168px;
+height: 14px;
+top: -50px;
+left: -25px;
+  /* height: 2.41%;
+  width: 58.35%;
+  top: 40.09%;
+  left: 2%;
+  letter-spacing: 0.07em;
+  line-height: 124.5%; */
+  /* display: inline-block; */
+}
+.b,
+.card-2 {
+  position: relative;
+}
+.b {
+  position: absolute;
+  width: 168px;
+  height: 14px;
+  top: -5px;
+  left: 50px;
+  /* height: 14.91%; */
+  /* width: 14.18%;
+  top: 75.62%;
+  left: 60.13%;
+  font-size: 0.81rem;
+  line-height: 124.5%;
+  display: inline-block;
+  text-align: left; */
+}
+.card-2 {
+  height: 28.45%;
+  width: 99.95%;
+  top: 71.55%;
+  right: 0%;
+  bottom: 0;
+  left: 0;
+}
+.preview-nft-card {
+  position: absolute;
+  height: 49.56%;
+  width: 20.09%;
+  top: 22.73%;
+  right: 16.02%;
+  bottom: 27.71%;
+  left: 63.89%;
+  box-shadow: 0 16px 24px rgba(0, 0, 0, 0.05);
+}
+.navbar {
+  left: 0;
+  
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.1),
+    rgba(255, 255, 255, 0)
+  
+  );
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(9px);
+  width: 90rem;
+  height: 5.13rem;
+}
+.nav-item,
+.nav-item1 {
+  position: absolute;
+  top: 2.56rem;
+  left: calc(50% - 314px);
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.nav-item1 {
+  left: calc(50% - 222px);
+}
+.connect {
+  position: absolute;
+  top: 0.81rem;
+  left: calc(50% - 53px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 5.06rem;
+}
+.button-child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 71px);
+  border-radius: 100px;
+  box-shadow: 0 4px 9px #000;
+  border: 0.5px solid #fff;
+  box-sizing: border-box;
+  width: 8.88rem;
+  height: 2.5rem;
+}
+.button,
+.solidinterfacestack-icon {
+  position: absolute;
+  top: 0.25rem;
+  left: calc(50% + 25px);
+  width: 1.88rem;
+  height: 1.88rem;
+}
+.button {
+  top: 1.56rem;
+  left: calc(50% + 537px);
+  width: 8.88rem;
+  height: 2.5rem;
+}
+.button-item {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 44px);
+  border-radius: 81px 100px 100px 100px;
+  background: linear-gradient(90deg, #00ff47 1.85%, #1cd9a0);
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 5.5rem;
+  height: 2.38rem;
+}
+.early-access {
+  position: absolute;
+  top: 0.88rem;
+  left: calc(50% - 43px);
+  display: inline-block;
+  width: 5.4rem;
+}
+.button-inner,
+.button1 {
+  position: absolute;
+  width: 5.5rem;
+}
+.button1 {
+  top: 1.69rem;
+  left: calc(50% - 443px);
+  height: 2.38rem;
+  font-size: 0.63rem;
+}
+.button-inner {
+  top: 0;
+  left: calc(50% - 44px);
+  border-radius: 81px 100px 100px 100px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid #00ff47;
+  box-sizing: border-box;
+  height: 2.5rem;
+}
+.submit {
+  position: absolute;
+  top: 0.88rem;
+  left: calc(50% - 34.49px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 4.28rem;
+}
+.button2 {
+  position: absolute;
+  top: 1.38rem;
+  left: calc(50% + 316px);
+  width: 5.5rem;
+  height: 2.5rem;
+  font-size: 0.69rem;
+}
+.account-dropdown-icon {
+  position: absolute;
+  top: 1.63rem;
+  left: 83.03rem;
+  width: 3.97rem;
+  height: 2.69rem;
+  display: none;
+}
+.social-icon,
+.social-icon1 {
+  position: absolute;
+  top: 0.94rem;
+  left: calc(50% + 469px);
+  width: 3.81rem;
+  height: 3.81rem;
+}
+.social-icon1 {
+  left: calc(50% + 411px);
+}
+.play {
+  position: absolute;
+  top: 0.44rem;
+  left: calc(50% - 682px);
+  width: 13.88rem;
+  height: 4.31rem;
+  object-fit: cover;
+}
+.header-menu,
+.hero {
+ position: absolute; 
+  top: 0;
+  width: 90rem;
+}
+.header-menu {
+  left: calc(50% - 720px);
+  height: 5.13rem;
+}
+.hero {
+  left: 0;
+  height: 47.56rem;
+}
+.header-slideshow {
+  position: relative;
+  width: 100%;
+  height: 47.56rem;
+  overflow-y: auto;
+  text-align: center;
+  font-size: 0.88rem;
+  color: #000;
+  font-family: Tomica;
+}
+
+@media only screen and (max-width: 768px) {
+        .hero-child{
+         
+          background: red;
+        }
+        .navbar{
+          background: pink;
+
+        }
+        .h{
+          display: flex;
+          flex-direction: column;
+        }
+       
+}
